@@ -1,5 +1,5 @@
 -- ChannelLookup
--- Maps internal channels to routing identifiers for processing.
+-- Maps internal channels to routing identifiers for processing. 
 
 local ChannelLookup = {}
 ChannelLookup._channels = {
